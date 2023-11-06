@@ -1,2 +1,2 @@
 # esg_kor_sample
-This repository is for sharing samples of ESG-KOR datasets.
+This repository is a temporary place to share samples of ESG-KOR datasets.
